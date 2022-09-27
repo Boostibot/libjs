@@ -1,4 +1,4 @@
-function importThrottle()
+function importThrottle(lib)
 {
     'use strict';
 

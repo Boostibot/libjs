@@ -1,4 +1,4 @@
-function importRanges(ATTRIBUTE_IMG_RESIZE) 
+function importRanges(ATTRIBUTE_IMG_RESIZE)  
 {
     'use strict';
     function decodeRanges(string)
